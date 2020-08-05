@@ -1,4 +1,4 @@
-# Build scrcpy
+# Build LomiCast
 
 Here are the instructions to build _scrcpy_ (client and server).
 
